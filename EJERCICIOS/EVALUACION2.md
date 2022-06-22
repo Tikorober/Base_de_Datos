@@ -5,10 +5,20 @@ Ejercicio:
 
 1. Menciona los comandos DMl: (valor .85)
 
+SELECT, esta sentencia se utiliza para realizar consultas sobre los datos.
+INSERT, con esta instrucción podemos insertar los valores en una base de datos.
+UPDATE, sirve para modificar los valores de uno o varios registros.
+DELETE, se utiliza para eliminar las filas de una tabla.
+
 2. Menciona 3 tipos de datos que existen: (valor .85)
+
+float, int, bigint, vachar
 
 
 3. ¿Qué diferencia existe entre TRUNCATE y DELETE?(valor .85)
+
+DELET, ELIMIAN DATOS D EUNA TABLA
+TRUNCATE, ELIMINA TODOS LOS REGISTROS DE UNA TABLA
 
 4. ¿Para qué se utiliza el atributo UNIQUE?(valor .85)
 
