@@ -56,7 +56,8 @@ Tenemos que diseñar una base de datos sobre proveedores y disponemos de la sigu
 información:
 
 Realiza el modelo entidad relación. (valor 6)
-![image](https://user-images.githubusercontent.com/101749850/175110920-2bea132e-4fa6-4a94-9ac3-18a05c494a31.png)
+![image](https://user-images.githubusercontent.com/101749850/175111173-6edfa16f-3c12-43a7-ab22-5c46a1aa4145.png)
+
 
 
 Tenemos esta información sobre una cadena editorial:
