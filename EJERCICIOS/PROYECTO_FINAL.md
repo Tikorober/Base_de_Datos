@@ -34,4 +34,6 @@ un código de categoría único.
 
 ![image](https://user-images.githubusercontent.com/101749850/178054520-167510e5-bacc-4756-a76a-0714567445de.png)
 
+https://www.db-fiddle.com/f/xwKimGjSoEHwAs7Wu63GYJ/0
+
 
